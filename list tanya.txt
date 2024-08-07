@@ -1,0 +1,7 @@
+List Pertanyaan ke Client:
+1. bagaimana tampilannya websitenya? apakah ada yang harus diubah?
+2. apakah di tampilan stok in perlu penambahan harga,keterangan dan total?
+3. apakah di tampilan stok out perlu penambahan harga,keterangan dan total?
+4. apakah fitur pengajuan dibuat secara manual aja?
+5. apakah laporan tersebut hanya dibuat barang masuk dan barang keluar aja?
+6. 
